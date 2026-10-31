@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "platform": "android-arm64-v8a",
+  "latest": {
+    "version": "5.1.0.20",
+    "date": "2026-10-31",
+    "description": "Исправлено состояние VPN после сворачивания. Убрано лишнее ожидание при успешном подключении.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/android-r3",
+    "sha256": "eb804b464a1ad6a1702871b14341f8266a03b225d16888615fba8b8f9634eb09"
+  }
+}
