@@ -2,10 +2,10 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.21",
+    "version": "5.1.0.23",
     "date": "2026-10-31",
-    "description": "Исправлено появление консоли при запуске AmneziaVPN. Логи и подключение работают как прежде.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.1",
-    "sha256": "5b55d1581b8dfdfd08e2528cab7050d3eba13b7285d0d9dbd7e8745e6dc84f7b"
+    "description": "Исправлено подключение после обновления с оригинальной AmneziaVPN: клиент получает и выбирает ключ нашего сервера. Старые профили сохраняются. После обновления подтвердите прозвище и подключитесь.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.2",
+    "sha256": "7ffbdf8b9d9771c1562f8534fc50804fee3ee1f1cd1b1d3827efdb903a5d556b"
   }
 }
