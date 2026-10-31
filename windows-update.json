@@ -2,10 +2,10 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.17",
+    "version": "5.1.0.21",
     "date": "2026-10-31",
-    "description": "Стабильный выпуск AmneziaVPN Bootstrap. Автоматическая выдача личного ключа по имени, прямое подключение с резервом через посредника и обновление адресов перед подключением.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.0",
-    "sha256": "f9264aa179a1a3bb02a48fdad9ade1cb0b60556dd7166d2c978f27a1c426ab55"
+    "description": "Исправлено появление консоли при запуске AmneziaVPN. Логи и подключение работают как прежде.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.1",
+    "sha256": "5b55d1581b8dfdfd08e2528cab7050d3eba13b7285d0d9dbd7e8745e6dc84f7b"
   }
 }
