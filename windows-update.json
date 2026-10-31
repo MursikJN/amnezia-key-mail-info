@@ -2,10 +2,10 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.14",
-    "date": "2026-10-30",
-    "description": "После успешной проверки без обновлений отображается «Установлена актуальная версия».\nIP-адреса скрыты в подписях и карточках серверов. Адреса в конфигурациях сохранены.\nНа экране добавления подключения появилась краткая инструкция из трёх шагов.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r11",
-    "sha256": "49b64ad42701f50b92d6217e297003016f0e7d109eb7a5928eeef173f980fbc7"
+    "version": "5.1.0.17",
+    "date": "2026-10-31",
+    "description": "Стабильный выпуск AmneziaVPN Bootstrap. Автоматическая выдача личного ключа по имени, прямое подключение с резервом через посредника и обновление адресов перед подключением.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.0",
+    "sha256": "f9264aa179a1a3bb02a48fdad9ade1cb0b60556dd7166d2c978f27a1c426ab55"
   }
 }
