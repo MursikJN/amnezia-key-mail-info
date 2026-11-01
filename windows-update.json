@@ -2,11 +2,11 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.29",
+    "version": "5.1.0.30",
     "date": "2026-11-01",
-    "description": "Zapret2 с автоподбором, обновлённые подсказки и установка следующих обновлений с прогрессом и перезапуском Amnezia. Первую установку r22 выполните вручную. Windows может запросить права администратора; автоматической перезагрузки ПК нет.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r22",
-    "sha256": "4ed3e1f887c6991d7c8de6769c3e48054eb2f24f953a0eaa642c272e8b663939"
+    "description": "Убран вопросик возле кружка подключения и строка «Отключи VPN для подбора Zapret2». Обновление устанавливается с прогрессом, затем Amnezia перезапускается. Возможен запрос прав администратора; автоматической перезагрузки ПК нет.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r23",
+    "sha256": "34a0791814c7f192ff2860180fa8ef3b25af22fe3b692b4f8993abf42c83a801"
   },
-  "signature": "ZHfj0YJqrpX9wYv97ISDlRlyUgjOUp9mbRlGBdMOdS5jqDDoKQFAsjn7Fr5qFUnyTUgINe51E4lLacSekafzrbEc+q2pvIXv57O0SEd3rAy5Ix2aH3v3KjlCy1/CWVKHfHzKJ+0sxlwLpShupkBqKK7aURW/hb+LGxEnrNCo/IcO1K6aKhCvq63HBfWLqnWG2g+CcvW4Ihjzyd7Ll4qtq972KOtAQSUFzdkMSBDArXabTMVSBGyyt2zB3SrpcqR601dRPETZlxP8Fk1nw9vF5USaNbkSCA/h/VlsuqRT3yhA5d10zoGMAfzda6k9fXEcjbT78LfyBB2NHlNjupgd+hf3smLcYb89DKUrvknXFxFLJBsyxEyN8BtYaJXQQgiYfpOuA1IkOo0clzXMmRYpzCxDbtd1SPrSxo7pbh7CLaxLS5sMIbSzrnFZfHXfH4ZRKioy2PoxQwGJgz3NU6eWCm2KOQRS5yybAeWGopsSolk7BjGk4dxcYyDVr/xlTuKZ"
+  "signature": "V6t0vs1klGTJb66rkB/aYdFR08IGCldXuTkV5FeeGxHv68sX+rzzmUgv5PHBln/xqhVVDANbh7FyvEEqQSvsZCtqARLgcmTG96RneQRGHmovOyn49mfadizcEjoAeV/bnJek8Ik54i5sRxUclykQgg8/Dzklf8G9dwB/zwoyD0/iPVIkJiwuGV+bHTiKC1pO3d7wM44iQxuBr9tHmhZ+MEHNL1qSu7ihnmL/PDWyXNJMF5RALGCzHLRB1Tv7qtrvnSxlzhhdY/ixlqBn+kq95bcbqc88IZERK2GaxonB5OOXtHkPIss/AyTCATpS9KetiG1qrFBFGyF1TjJlWRJUGCSpVB/xT6Jbu+7lUw6FirkecGVZJXiVkF2Xx8jzGgV7nEnd4IxzDMrKI67hTvVdLKaetVv2r1jHNdFEsenbK2WA7yT/rZJqiQldj7fc4xOJbww8FerblF4uWAjWU2xh7T8IF1LVK7xycrJtqtaUhYIda7SjgtBdUIq3Qs6xvRB4"
 }
