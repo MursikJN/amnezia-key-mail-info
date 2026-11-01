@@ -2,11 +2,11 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.30",
+    "version": "5.1.0.31",
     "date": "2026-11-01",
-    "description": "Убран вопросик возле кружка подключения и строка «Отключи VPN для подбора Zapret2». Обновление устанавливается с прогрессом, затем Amnezia перезапускается. Возможен запрос прав администратора; автоматической перезагрузки ПК нет.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r23",
-    "sha256": "34a0791814c7f192ff2860180fa8ef3b25af22fe3b692b4f8993abf42c83a801"
+    "description": "Исправлена ошибка запуска Qt-плагина в обновляторе. При активном VPN показана подсказка «Отключи VPN для подключения к Zapret2». Старым r22/r23 без разового исправления помощника нужна ручная установка этой версии. Автоматической перезагрузки ПК нет.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r24",
+    "sha256": "c70e3889e0d049c8096df2508df3b18e67fb100dbc8359de2e46b5715f191b17"
   },
-  "signature": "V6t0vs1klGTJb66rkB/aYdFR08IGCldXuTkV5FeeGxHv68sX+rzzmUgv5PHBln/xqhVVDANbh7FyvEEqQSvsZCtqARLgcmTG96RneQRGHmovOyn49mfadizcEjoAeV/bnJek8Ik54i5sRxUclykQgg8/Dzklf8G9dwB/zwoyD0/iPVIkJiwuGV+bHTiKC1pO3d7wM44iQxuBr9tHmhZ+MEHNL1qSu7ihnmL/PDWyXNJMF5RALGCzHLRB1Tv7qtrvnSxlzhhdY/ixlqBn+kq95bcbqc88IZERK2GaxonB5OOXtHkPIss/AyTCATpS9KetiG1qrFBFGyF1TjJlWRJUGCSpVB/xT6Jbu+7lUw6FirkecGVZJXiVkF2Xx8jzGgV7nEnd4IxzDMrKI67hTvVdLKaetVv2r1jHNdFEsenbK2WA7yT/rZJqiQldj7fc4xOJbww8FerblF4uWAjWU2xh7T8IF1LVK7xycrJtqtaUhYIda7SjgtBdUIq3Qs6xvRB4"
+  "signature": "jIllDYPC84jQm97mX5/jfd9fM0vZqQaSfB5ocpUiuHDXngSiswj4a6sgBj4ISEfASrYdfr5BlrUk9HWrYj67pBhKBHpv7rn+I1GlvhgXdHaMYa1m5FhelxrRN7gMCLAaG30He9YFz9uC2TUu5MCyF408ZRuXKcN8Qr258B8J8br8g/KoR5P/hj865JmUZXW6YTtaSxkn4YjXMyul7RD0jEuLw1Cz6R2J0tgrj29raupGXqnVvfLnxoPLwX326g9WQgMuwf9y6z1VRwdnIzivfOKkDHL0uIGa2ErrOwWBW7EKExQwkMgcnEBV4MEAbi5u8bx8+To5JYxSNA0lGFjz5QwJ9pI94VMkjoRnsXFqFjs+wEPy5eZo25UHKNa5mvL79JUc1X5k14CAFVXVPsL1+TKp7wQjp1LiVE39yzCN1pJjL7xybC6wNKnNJ8z+1Uknpz/mNkaH9kDYnUssjBoGOmcqb6TD0DXtkQuqjwxkKHEFYhdZqnlWofv5iNZus/Tl"
 }
