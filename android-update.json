@@ -2,10 +2,10 @@
   "schema": 1,
   "platform": "android-arm64-v8a",
   "latest": {
-    "version": "5.1.0.40",
+    "version": "5.1.0.41",
     "date": "2026-11-01",
     "description": "Скачайте APK и установите поверх текущей версии.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.4",
-    "sha256": "84d8280a72568a2f3e448a896b18cd28a425f7601ff13baacd5397315a367503"
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.5",
+    "sha256": "20f930ea0527dbfe340c10ee16825b6e5343e1442459c5f13a1a6a0752044758"
   }
 }
