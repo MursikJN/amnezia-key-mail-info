@@ -2,10 +2,10 @@
   "schema": 1,
   "platform": "android-arm64-v8a",
   "latest": {
-    "version": "5.1.0.20",
-    "date": "2026-10-31",
-    "description": "Стабильный выпуск AmneziaVPN Bootstrap для Android. Исправлено состояние после сворачивания и убрано лишнее ожидание при подключении.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.0",
-    "sha256": "eb804b464a1ad6a1702871b14341f8266a03b225d16888615fba8b8f9634eb09"
+    "version": "5.1.0.39",
+    "date": "2026-11-01",
+    "description": "Добавлены ByeDPI с расширенным автоподбором и режим обхода белых списков. Обновлены подсказки, убрана кнопка замера TURN, исправлены состояние подключения и размещение элементов интерфейса. Возможности обхода зависят от сети.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/android-r19",
+    "sha256": "1ca1947bc74e5e65b4f532941cb0a7a5995c864e71697a079a47dfba0fb927a4"
   }
 }
