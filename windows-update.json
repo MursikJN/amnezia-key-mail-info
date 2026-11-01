@@ -2,10 +2,11 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.24",
-    "date": "2026-10-31",
-    "description": "Исправлена ошибка «Не удалось получить ключ». Восстановлен адрес API и исправлен переход на резервный адрес. После обновления снова нажмите «Продолжить» в окне с прозвищем. Старые профили сохраняются.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.3",
-    "sha256": "274f1cb100f045e65a2049af38ccc91abd2fa7bd3683a849bcdb1e80462c7130"
-  }
+    "version": "5.1.0.29",
+    "date": "2026-11-01",
+    "description": "Zapret2 с автоподбором, обновлённые подсказки и установка следующих обновлений с прогрессом и перезапуском Amnezia. Первую установку r22 выполните вручную. Windows может запросить права администратора; автоматической перезагрузки ПК нет.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r22",
+    "sha256": "4ed3e1f887c6991d7c8de6769c3e48054eb2f24f953a0eaa642c272e8b663939"
+  },
+  "signature": "ZHfj0YJqrpX9wYv97ISDlRlyUgjOUp9mbRlGBdMOdS5jqDDoKQFAsjn7Fr5qFUnyTUgINe51E4lLacSekafzrbEc+q2pvIXv57O0SEd3rAy5Ix2aH3v3KjlCy1/CWVKHfHzKJ+0sxlwLpShupkBqKK7aURW/hb+LGxEnrNCo/IcO1K6aKhCvq63HBfWLqnWG2g+CcvW4Ihjzyd7Ll4qtq972KOtAQSUFzdkMSBDArXabTMVSBGyyt2zB3SrpcqR601dRPETZlxP8Fk1nw9vF5USaNbkSCA/h/VlsuqRT3yhA5d10zoGMAfzda6k9fXEcjbT78LfyBB2NHlNjupgd+hf3smLcYb89DKUrvknXFxFLJBsyxEyN8BtYaJXQQgiYfpOuA1IkOo0clzXMmRYpzCxDbtd1SPrSxo7pbh7CLaxLS5sMIbSzrnFZfHXfH4ZRKioy2PoxQwGJgz3NU6eWCm2KOQRS5yybAeWGopsSolk7BjGk4dxcYyDVr/xlTuKZ"
 }
