@@ -2,10 +2,10 @@
   "schema": 1,
   "platform": "android-arm64-v8a",
   "latest": {
-    "version": "5.1.0.43",
+    "version": "5.1.0.45",
     "date": "2026-11-02",
-    "description": "Скачайте APK и установите поверх текущей версии.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.7",
-    "sha256": "e5d6435498fbd9c92811fd19d8827e2e100efda9ae1761f292cab4f76a55d588"
+    "description": "Автоматическое восстановление AmneziaWG после обрыва связи. Повторное подключение с сохранённым ключом; ручное отключение отменяет повторы. Скачайте APK и установите поверх текущей версии без удаления приложения.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/android-r25",
+    "sha256": "105cdc4b1e59078f8669c39af627aaf56eb8fd6bbebed6ee3287f2ea7b2435aa"
   }
 }
