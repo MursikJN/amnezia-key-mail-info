@@ -2,10 +2,11 @@
   "schema": 1,
   "platform": "android-arm64-v8a",
   "latest": {
-    "version": "5.1.0.45",
-    "date": "2026-11-02",
-    "description": "Теперь при обрыве связи VPN подключится снова сам. Ничего нажимать не нужно. (Возможно, связь обрывают алгоритмы блокировки.)",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/android-r25",
-    "sha256": "105cdc4b1e59078f8669c39af627aaf56eb8fd6bbebed6ee3287f2ea7b2435aa"
-  }
+    "version": "5.1.0.47",
+    "date": "2026-11-04",
+    "description": "Время коннекта изменено, раньше могло коннектить 15 секунд",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/android-r27",
+    "sha256": "a7605336e741e26071711712b6d582b165b765e9a910b1567d6f10a9d3362afc"
+  },
+  "signature": "t9sf5l04WB5x4o+/A+/1laBOTnESo5VmSIHB84xRCmq18lom0RLc81mLJSNyOWn5UL3PWDt1haovoSG60M9abWVOcJy7SbUswgOp5/aVeAXQYVl0o9xRKS8SQyUbrP7vlyJfIxgcSNApuWNWr8kcAhqigwfN97klFFuBPhNGSbTClLkgoVtBMhjoAlUaCFaXyh7WrU0P77IkcPFx+mPIL1gwPGPwg5jl8p71ILC4eTOvNFAAWytvVh7LgE803n1M8q+IaIxh2jJAdWnyZHF+Hu0k6uZguqz0gs1Wu3LdMafP9eEhzCfL4hEyKDhVoFKMAwzDi4umKQtsfAGFrYEYUD4mvnF/T2lcmOSBNlEIDeD1BQutleN3NIQ9UOHYFSVsgXb4X6nsY/gR/nHc7Y6BpoDCUFox1Hmj+edobuD5AqZuo7eJWr8SpCvP0dlj9nuKTJ2U0X9yq+se4EOHIdTcQKnpeVhxNckJSHZCvUQdDwkg3Ly4SEJYWrGUwWrAAgDj"
 }
