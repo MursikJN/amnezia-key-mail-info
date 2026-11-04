@@ -2,11 +2,11 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.36",
-    "date": "2026-11-03",
-    "description": "Обновлены стратегии для Zapret. Исправлено раздельное туннелирование.",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r28",
-    "sha256": "ae6b620afff2ac11742cb645504c92656c5d6a19b67ed7ce6f846ca18ea6b1b2"
+    "version": "5.1.0.37",
+    "date": "2026-11-04",
+    "description": "Ускорено подключение через мост",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r29",
+    "sha256": "eaeb84008aecb6c78fadbde3a7ff9b9931c444de236679affca76ac136744f7c"
   },
-  "signature": "2InfmnGyoD4Tc5rH7iU9jfjsH3OndQbkXf3q1y2WmuTP2Byo+z/XRgMEvxBNsq4VILDQzmyxPpQ/VUPTwQcpUxXRoFcjpZzLmRW4bEvQVQ2aXeZq9S9K/0pvZvrytD7rwrEMv8G7t11bWkcxwfdEoCLB6PG5CYKG0dA+3sj4+7H4TpeIlVV5EXjlxbJj4Do2s/Pce8rLVY+9mCNkRFSfI0cbpII6gdY3ZLHEUN4GtrWfkLi2qxewYUUaYRUKcl8PxCD7Y74yD1xDI3GEyqPvfQ3Os3txkt/6SELBgjaGOC9Mb9uHgUrhao3Hyl1EA+lCwoKQBBZwjZZX6BSg3/NsnFqSw+Ya6icOKlMuen/T71QKiBxI+hz6C+xAJlDg3k69gCpBgLWLDQUPvCKN6H6eQTwWtR9HqgMqylghPa7pIUQ+yIrFQyyoxFTXIlT+gVOro9HXmXoV4H5+MpJp+VvZ1jBUIsTlrB14eMQU+qKo8Np80rvCaaXjfqQvpMSN1pqM"
+  "signature": "yxmKI5AjJ3tIFxO8YAf22tnwqe1P20sBYkJyyKwQQVO6iTpXy0tdnkD8JrNTd3c6kCdqWeGlRjOw+jb5XSQipn4DMqSw2CJoAqucBkCpLgLQsg2HT0TJ29eZmuqvPh/rAlNqOG3NnXdbvUkaXoNON+gAZaKRkrYYnDaqKy46EbebiuRn0RgNMsgHFva13al1dnXZ0TGYsXJsAQa9sxdXYvLBBrJqus919BJmSKTQvNBszDkK9y3gviJOIN76agVkTA2xGmHy55YCJQBC4jo7N9vs9/l0xBmoakgawb9Cr8Pmmwh8UAw/08MuZSJTCAmBfgRR2HLQZ3aeUiWkGVlvspFoI2XCHpxhCOIYTXKC0syIwc/SgQ2WiTF4MsKiV9EWRR0QP3xFDrvkS5QeTVZAjLnkx5luAvwrnBSvMJKO9ORZj/NRX6lv6c8yYQPp+/6BuUJWNFH1zdpVRWcTJJJDQKhzXiFO2DgYgAd/BAp1eatUdZpsXsUjfjnrofuGcbMk"
 }
